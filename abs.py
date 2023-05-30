@@ -1,5 +1,5 @@
 def param(i):
     return abs(i)
-num = int(input("Son kiriting: "))
-numer = param(num)
+n = int(input("Son kiriting: "))
+numer = param(n)
 print(numer)
